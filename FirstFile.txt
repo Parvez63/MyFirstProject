@@ -1,0 +1,2 @@
+git status--> To see the status our working directory. 
+git --> djfkdhfjdf
