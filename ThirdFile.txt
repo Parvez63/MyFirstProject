@@ -1,0 +1,7 @@
+git status--> To see the status our working directory. 
+git --> djfkdhfjdf
+
+
+This is my Second file
+  
+This is our Third commit
